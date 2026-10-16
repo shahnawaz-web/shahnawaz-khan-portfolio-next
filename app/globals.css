@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* The original used the OS preference (Tailwind v4 default). The toggle needs a class-based variant. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --primary-color: #1b3c53;
+  --secondary-color: #e69500;
+  --accent-color: #16A34A;
+  --background-color: #f7fafc;
+  --text-color: #1b3c53;
+  --cards-background-color: #dee7f7;
+}

@@ -1,0 +1,224 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Shahnawaz Khan",
+    "url": "__SITE__",
+    "image": "__SITE__/assets/images/profile/shahnawaz-khan-web-developer.webp",
+    "sameAs": [
+      "https://github.com/shahnawaz-web",
+      "https://pk.linkedin.com/in/shahnawaz-khan-webdeveloper",
+      "https://x.com/shahnawaz_code",
+      "https://www.facebook.com/share/1CLwVdrvQq/",
+      "https://www.instagram.com/shahnawazkhan.dev"
+    ],
+    "jobTitle": "Full-Stack Web Developer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "MarkDev Software House"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rohan Plaza, Faisal Colony",
+      "addressLocality": "Bahawalpur",
+      "addressRegion": "Punjab",
+      "addressCountry": "PK"
+    },
+    "email": "shahnwaz7242@gmail.com",
+    "telephone": "+92-307-7242548",
+    "knowsAbout": [
+      "React.js",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "Full-Stack Web Development",
+      "Responsive Web Design",
+      "Custom Web Application Development",
+      "UI/UX Design",
+      "E-Commerce Development",
+      "SaaS Application Development",
+      "REST APIs",
+      "GraphQL",
+      "MongoDB",
+      "Web Performance Optimization",
+      "SEO Optimization"
+    ],
+    "alumniOf": {
+      "@type": "Organization",
+      "name": "Professional Developer"
+    },
+    "description": "BS Information Technology | Full Stack Web Developer helping businesses turn ideas into modern, user-friendly, high-performance, scalable SaaS, eCommerce, dashboards & websites."
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Shahnawaz Khan - Web Development Services",
+    "image": "__SITE__/assets/images/profile/shahnawaz-khan-web-developer.webp",
+    "url": "__SITE__",
+    "telephone": "+92-307-7242548",
+    "email": "shahnwaz7242@gmail.com",
+    "priceRange": "$500 - $5000",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Rohan Plaza, Faisal Colony",
+      "addressLocality": "Bahawalpur",
+      "addressRegion": "Punjab",
+      "postalCode": "63100",
+      "addressCountry": "PK"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "29.4",
+      "longitude": "71.6"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "09:00",
+      "closes": "22:00"
+    },
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Freelance"
+    },
+    "areaServed": {
+      "@type": "Country",
+      "name": "Worldwide"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Shahnawaz Khan | Full-Stack Web Developer Portfolio",
+    "url": "__SITE__",
+    "description": "Hire Shahnawaz Khan, a professional Full-Stack Web Developer specializing in React.js, Node.js, and scalable web applications. Delivering high-performance, SEO-optimized, and user-friendly digital solutions.",
+    "publisher": {
+      "@type": "Person",
+      "name": "Shahnawaz Khan",
+      "@id": "__SITE__/#about"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "OfferCatalog",
+    "name": "Web Development Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Custom Website Development",
+          "description": "Tired of generic websites that don’t convert? I build tailored, high-performance websites designed to reflect your brand, engage users, and turn visitors into paying clients."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Frontend Development",
+          "description": "Tired of slow, cluttered, or confusing user interfaces that drive users away? I design and develop fast, responsive, and visually refined interfaces that deliver seamless user experiences and maximize engagement and conversions."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Backend Development",
+          "description": " Is your startup or business struggling with crashes, slow performance, or security vulnerabilities? I design and develop secure, scalable backend systems that ensure stable performance, reliable data flow, and uninterrupted business operations under real-world conditions."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "E-Commerce Solutions",
+          "description": "Struggling with billing/shipping info or poor sales? I build optimized e-commerce platforms that deliver seamless shopping experiences, build customer trust and maximize your revenue."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Website Maintenance & Support",
+          "description": " Worried about downtime, bugs, or security risks affecting your business? I ensure your website stays secure, updated, and fully optimized - delivering consistent performance so you never lose customers or opportunities."
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Technical Consulting",
+          "description": "Not sure what’s slowing your project down or affecting performance? I analyze your system, identify inefficiencies, and provide clear, actionable technical strategies to help you scale with confidence and clarity."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does a typical web development project include?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A typical project includes discovery and planning, UI/UX design, front-end and back-end development, CMS integration, QA testing, deployment, hosting setup, performance optimization, security improvements, and analytics integration, scoped to the project's needs."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I determine the right type of website for my business?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The right website type depends on your business goals: a conversion-focused business website for generating leads, or an e-commerce platform for selling products, chosen based on growth plans and budget."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will my website be mobile responsive?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Every website is built with a fully responsive layout that works on mobile phones, tablets, laptops, and desktop screens."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does a project cost?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Pricing varies based on project requirements, features, and complexity. A transparent quote with no hidden costs is provided after discussing project goals."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will I own the source code?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Once the project is completed and payment terms are met, the client receives full ownership of the source code and project assets."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you provide maintenance after launch?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Ongoing maintenance, bug fixes, performance optimization, security updates, and feature enhancements are available after launch."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I optimize websites for SEO and performance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Websites are optimized using clean code, optimized images, lazy loading, proper heading structure, schema markup, semantic HTML, fast hosting, and Core Web Vitals best practices to improve search rankings and loading speed."
+        }
+      }
+    ]
+  }
+]

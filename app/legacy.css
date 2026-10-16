@@ -1,0 +1,136 @@
+ /*---------- Custom arrow styling -----------*/
+     /* *{
+        border: 2px solid blue;
+     } */
+
+     body {
+  font-family: 'Inter', system-ui, -apple-system, Arial, sans-serif;
+}
+ 
+/* floating animation */
+  .floating{
+      animation: float 4s ease-in-out infinite;
+    }
+
+    @keyframes float{
+      0%,100%{
+        transform: translateY(0px);
+      }
+      50%{
+        transform: translateY(-15px);
+      }
+    }
+
+/* theme toggle svg */
+ svg {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+ 
+button:active svg {
+  transform: scale(0.9);
+}
+
+ .custom-swiper-btn {
+            /* background: #1e88e5; */
+            width: 45px;
+            height: 45px;
+            color: #0d4b71;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            transition: all 0.3s ease;
+        }
+
+        /* Increase arrow size */
+        .custom-swiper-btn::after {
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        /* Hover animation */
+        .custom-swiper-btn:hover {
+            transform: scale(1.12);
+        }
+
+        /* Custom dots */
+        .swiper-pagination-bullet {
+            background: #0d4b71;
+            width: 15px;
+            height: 15px;
+            opacity: 0.8;
+            transition: 0.2s;
+        }
+
+        /* Active dot */
+        .swiper-pagination-bullet-active {
+            background: #1644dd;
+            width: 16px;
+            height: 16px;
+            opacity: 1;
+        }
+/* Profile Box Overlay */
+        .profile-box:before {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    right: 20px;
+    bottom: 40px;
+    border: 1px solid #384dc3fe;
+    background-color: #4269b852;
+    z-index: 4;
+    border-radius: 12px;
+}
+/* Skill Item Animation */
+
+  .skill-item.show {
+    opacity: 1;
+    transform: translateY(0);
+  } 
+
+  /*--------contact form animations -----------*/
+   @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        .animate-slideIn {
+            animation: slideIn 0.5s ease-out;
+        }
+        
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-10px); }
+            75% { transform: translateX(10px); }
+        }
+        .animate-shake {
+            animation: shake 0.3s ease-in-out;
+        }
+
+        .input-error {
+            animation: shake 0.3s ease-in-out;
+        }
+
+        /* Custom scrollbar */
+        textarea::-webkit-scrollbar {
+            width: 8px;
+        }
+        textarea::-webkit-scrollbar-track {
+            background: #1f2937;
+            border-radius: 4px;
+        }
+        textarea::-webkit-scrollbar-thumb {
+            background: #3b82f6;
+            border-radius: 4px;
+        }
+        textarea::-webkit-scrollbar-thumb:hover {
+            background: #2563eb;
+        }
+  
