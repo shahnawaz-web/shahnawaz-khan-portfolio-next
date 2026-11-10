@@ -78,7 +78,7 @@ button:active svg {
     top: 20px;
     right: 20px;
     bottom: 40px;
-    border: 1px solid #384dc3fe;
+    /* border: 1px solid #384dc3fe; */
     background-color: #4269b852;
     z-index: 4;
     border-radius: 12px;

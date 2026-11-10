@@ -20,7 +20,7 @@ export default function Contact() {
 </div>{" "}<div className="text-white">
 <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 gap-12">{" "}<div>
 <h2 className="text-3xl font-bold text-[#1a3263] dark:text-white mb-8">Let's Connect</h2>{" "}{" "}<a href="mailto:shahnawazkhan.webdev@gmail.com" target="_blank" rel="noopener noreferrer">
-<div className={"flex items-start gap-4  group \n                                \n                                bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 mb-4 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]\n                                "}>
+<div className={"flex items-start gap-4  group \n                                \n                                bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 mb-4 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]\n                                "}>
 <span className="bg-transparent cursor-pointer border border-[#1a3263] dark:border-blue-600 hover:border-white hover:bg-[#1a3263] dark:hover:bg-blue-600 text-[#1a3263] dark:text-blue-500 hover:text-white w-11 h-11 rounded-md flex justify-center items-center duration-300 hover:scale-[1.02] group">
 <i className="bi bi-envelope">
 </i>
@@ -34,7 +34,7 @@ export default function Contact() {
 </span>
 </div>
 </a>{" "}{" "}<a href="https://wa.me/923077242548?text=Hello%20Shahnawaz%20Khan%2C%20I%E2%80%99m%20interested%20in%20discussing%20a%20professional%20website%20project%20for%20my%20business." target="_blank" className="whatsapp-btn" rel="noopener noreferrer">
-<div className="flex items-start gap-4 bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6  mb-4 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+<div className="flex items-start gap-4 bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6  mb-4 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <span className="bg-transparent hover:bg-green-500 w-11 h-11 rounded-lg flex justify-center items-center text-green-500 hover:text-white border border-green-600 hover:border-white text-xl">
 <i className="bi bi-whatsapp">
 </i>
@@ -48,7 +48,7 @@ export default function Contact() {
 </span>
 </div>
 </a>{" "}{" "}<a href={"https://www.google.com/maps/place/Bahawalpur,+Pakistan/@29.3770646,71.607609,12z/data=!3m1!4b1!4m6!3m5!1s0x393b90c46c611ad5:0xfcdf0da8e103f862!8m2!3d29.3885409!4d71.7016425!16zL20vMDFnMzRo?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"} target="_blank" rel="noopener noreferrer">
-<div className="flex items-start gap-4 bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6  mb-4 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+<div className="flex items-start gap-4 bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6  mb-4 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <span className="bg-transparent cursor-pointer border border-[#1a3263] dark:border-blue-600 hover:border-white hover:bg-[#1a3263] dark:hover:bg-blue-600 text-[#1a3263] dark:text-blue-500 hover:text-white w-11 h-11 rounded-md flex justify-center items-center duration-300 hover:scale-[1.02] group">
 <i className="bi bi-geo-alt">
 </i>
@@ -61,7 +61,7 @@ export default function Contact() {
 </span>
 </div>
 </a>{" "}{" "}<a href="https://www.linkedin.com/in/shahnawaz-khan-webdeveloper/overlay/1767095402357/single-media-viewer/?profileId=ACoAADT9f98BOMFglMbuKHWHpLrxOLpfP86-2jA" target="_blank" rel="noopener noreferrer">
-<div className="flex items-start relative gap-4 bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+<div className="flex items-start relative gap-4 bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <span className="bg-transparent cursor-pointer border border-[#1a3263] dark:border-blue-600 hover:border-white hover:bg-[#1a3263] dark:hover:bg-blue-600 text-[#1a3263] dark:text-blue-500 hover:text-white w-11 h-11 rounded-md flex justify-center items-center duration-300 hover:scale-[1.02] group">
 <i className="bi bi-clock">
 </i>
@@ -106,7 +106,7 @@ export default function Contact() {
 </i>
 </a>
 </div>
-</div>{" "}{" "}<div className=" bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+</div>{" "}{" "}<div className=" bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <h3 className="text-xl text-[#1a3263] dark:text-white/90 font-bold my-2">{" Why Work With Me? "}</h3>{" "}<ul className="space-y-2 text-[#1a3263] dark:text-white/80 text-lg">
 <li>
 <i className="bi bi-check2-circle text-green-500 dark:text-blue-600 text-lg pr-1">
@@ -125,7 +125,7 @@ export default function Contact() {
 </i>{" 100% client satisfaction rate "}</li>
 </ul>
 </div>
-</div>{" "}{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+</div>{" "}{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <h2 className="text-3xl text-green-500 font-bold mb-8">Send Me a Message</h2>{" "}{" "}<div id="successMessage" className="hidden fixed top-50 right-10  mb-6 p-4 bg-black border-2 border-green-500 rounded-lg">
 <div className="flex items-start gap-3">
 <svg className="w-6 h-6 text-green-500 flex shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

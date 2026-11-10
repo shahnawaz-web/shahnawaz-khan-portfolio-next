@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^7.0.1",
+    "@vercel/speed-insights": "^2.0.0",
     "bootstrap-icons": "^1.11.3",
     "next": "^15.5.28",
     "react": "^19.3.1",
@@ -25,5 +26,10 @@
     "htmlparser2": "^9.1.0",
     "postcss": "^8.5.30",
     "tailwindcss": "^4.1.18"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "^8.5.30"
+    }
   }
 }

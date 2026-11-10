@@ -17,7 +17,13 @@ export default function Projects() {
 </i>{" Backend "}</button>{" "}<button data-filter="full-stack" className="filter-btn px-6 py-3 rounded-lg bg-[#1a3263] hover:bg-green-400 dark:bg-[#141c28]/70 dark:hover:bg-[#141c28]/20 text-white border dark:border-blue-600 font-medium transition-all duration-500 hover:border-green-600 dark:hover:border-blue-700 hover:scale-[1.01] active:bg-green-600 dark:active:bg-blue-600 active:text-black focus:outline-none focus:ring-0 focus:bg-green-600 dark:focus:bg-blue-600 active:outline-none">
 <i className="bi bi-funnel">
 </i>{" Full Stack "}</button>
-</div>{" "}<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="projectGrid">{" "}<div className="project-card frontend bg-[#dee7f7] dark:bg-[#141b2c] relative rounded-xl dark:border dark:border-blue-600 overflow-hidden group transition duration-300 hover:-translate-y-1 shadow-[4px_4px_0px_rgb(32_170_100)] hover:shadow-[-4px_-4px_0px_rgb(32_170_100)] dark:hover:shadow-blue-600/50">
+</div>{" "}<div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8" id="projectGrid">{" "}<div className="project-card frontend bg-[#dee7f7] dark:bg-[#141b2c] dark:hover:bg-[#021526] relative rounded-xl
+border border-green-600 dark:border-blue-600
+overflow-hidden group transition duration-300 hover:-translate-y-1
+shadow-[4px_4px_0px_#16a34a]
+hover:shadow-[-4px_-4px_0px_#16a34a]
+dark:shadow-[4px_4px_0px_#2563eb]
+dark:hover:shadow-[-4px_-4px_0px_#2563eb]">
 <div className="w-full h-64 overflow-hidden relative group">
 <img src="/assets/images/projects/scientific-calculator-thumnail.webp" alt="Scientific Calculator web app interface preview" fetchPriority="high" loading="lazy" decoding="async" className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105 origin-top" />{" "}<div className="absolute inset-0 bg-black/60 opacity-0 transition-all duration-500 group-hover:opacity-100">
 </div>{" "}<div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 transition-all duration-500 group-hover:opacity-100">
@@ -39,7 +45,13 @@ export default function Projects() {
 </i>
 </div>{" "}</div>
 </div>
-</div>{" "}{" "}<div className="project-card frontend bg-[#dee7f7] dark:bg-[#141b2c] relative rounded-xl dark:border dark:border-blue-600 overflow-hidden group transition duration-300 hover:-translate-y-1 shadow-[4px_4px_0px_rgb(32_170_100)] hover:shadow-[-4px_-4px_0px_rgb(32_170_100)] dark:hover:shadow-blue-600/50">
+</div>{" "}{" "}<div className="project-card frontend bg-[#dee7f7] dark:bg-[#141b2c] dark:hover:bg-[#021526] relative rounded-xl
+border border-green-600 dark:border-blue-600
+overflow-hidden group transition duration-300 hover:-translate-y-1
+shadow-[4px_4px_0px_#16a34a]
+hover:shadow-[-4px_-4px_0px_#16a34a]
+dark:shadow-[4px_4px_0px_#2563eb]
+dark:hover:shadow-[-4px_-4px_0px_#2563eb]">
 <div className="w-full h-64 overflow-hidden relative group">
 <img src="/assets/images/projects/taskflow-dashboard-thumnail.webp" alt="Task Management web app interface preview" loading="lazy" decoding="async" className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105 origin-top" />{" "}<div className="absolute inset-0 bg-black/60 opacity-0 transition-all duration-500 group-hover:opacity-100">
 </div>{" "}<div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 transition-all duration-500 group-hover:opacity-100">
@@ -61,7 +73,13 @@ export default function Projects() {
 </i>
 </div>{" "}</div>
 </div>
-</div>{" "}{" "}<div className="project-card backend bg-[#dee7f7] dark:bg-[#141b2c] relative rounded-xl dark:border dark:border-blue-600 overflow-hidden group transition duration-300 hover:-translate-y-1 shadow-[4px_4px_0px_rgb(32_170_100)] hover:shadow-[-4px_-4px_0px_rgb(32_170_100)] dark:hover:shadow-blue-600/50">
+</div>{" "}{" "}<div className="project-card backend bg-[#dee7f7] dark:bg-[#141b2c] dark:hover:bg-[#021526] relative rounded-xl
+border border-green-600 dark:border-blue-600
+overflow-hidden group transition duration-300 hover:-translate-y-1
+shadow-[4px_4px_0px_#16a34a]
+hover:shadow-[-4px_-4px_0px_#16a34a]
+dark:shadow-[4px_4px_0px_#2563eb]
+dark:hover:shadow-[-4px_-4px_0px_#2563eb]">
 <div className="w-full h-64 overflow-hidden relative group">
 <img src="/assets/images/projects/weather-now-dashboard-thumnail.webp" alt="Weather Dashboard web app interface preview" fetchPriority="high" loading="lazy" decoding="async" className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105 origin-top" />{" "}<div className="absolute inset-0 bg-black/60 opacity-0 transition-all duration-500 group-hover:opacity-100">
 </div>{" "}<div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 transition-all duration-500 group-hover:opacity-100">
@@ -83,7 +101,13 @@ export default function Projects() {
 </i>
 </div>{" "}</div>
 </div>
-</div>{" "}{" "}<div className="project-card backend bg-[#dee7f7] dark:bg-[#141b2c] relative rounded-xl dark:border dark:border-blue-600 overflow-hidden group transition duration-300 hover:-translate-y-1 shadow-[4px_4px_0px_rgb(32_170_100)] hover:shadow-[-4px_-4px_0px_rgb(32_170_100)] dark:hover:shadow-blue-600/50">
+</div>{" "}{" "}<div className="project-card backend bg-[#dee7f7] dark:bg-[#141b2c] dark:hover:bg-[#021526] relative rounded-xl
+border border-green-600 dark:border-blue-600
+overflow-hidden group transition duration-300 hover:-translate-y-1
+shadow-[4px_4px_0px_#16a34a]
+hover:shadow-[-4px_-4px_0px_#16a34a]
+dark:shadow-[4px_4px_0px_#2563eb]
+dark:hover:shadow-[-4px_-4px_0px_#2563eb]">
 <div className="w-full h-64 overflow-hidden relative group">
 <img src="/assets/images/projects/social-media-api-portfolio-live-preview.webp" alt="Social Media API web app interface preview" fetchPriority="high" loading="lazy" decoding="async" className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105 origin-top" />{" "}<div className="absolute inset-0 bg-black/60 opacity-0 transition-all duration-500 group-hover:opacity-100">
 </div>{" "}<div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 transition-all duration-500 group-hover:opacity-100">
@@ -105,7 +129,13 @@ export default function Projects() {
 </i>
 </div>{" "}</div>
 </div>
-</div>{" "}{" "}<div className="project-card full-stack bg-[#dee7f7] dark:bg-[#141b2c] relative rounded-xl dark:border dark:border-blue-600 overflow-hidden group transition duration-300 hover:-translate-y-1 shadow-[4px_4px_0px_rgb(32_170_100)] hover:shadow-[-4px_-4px_0px_rgb(32_170_100)] dark:hover:shadow-blue-600/50">
+</div>{" "}{" "}<div className="project-card full-stack bg-[#dee7f7] dark:bg-[#141b2c] dark:hover:bg-[#021526] relative rounded-xl
+border border-green-600 dark:border-blue-600
+overflow-hidden group transition duration-300 hover:-translate-y-1
+shadow-[4px_4px_0px_#16a34a]
+hover:shadow-[-4px_-4px_0px_#16a34a]
+dark:shadow-[4px_4px_0px_#2563eb]
+dark:hover:shadow-[-4px_-4px_0px_#2563eb]">
 <div className="w-full h-64 overflow-hidden relative group">
 <img src="/assets/images/projects/portfolio-web-app-portfolio-live-preview.webp" alt="Portfolio Website web app interface preview" fetchPriority="high" loading="lazy" decoding="async" className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105 origin-top" />{" "}<div className="absolute inset-0 bg-black/60 opacity-0 transition-all duration-500 group-hover:opacity-100">
 </div>{" "}<div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 transition-all duration-500 group-hover:opacity-100">
@@ -127,7 +157,13 @@ export default function Projects() {
 </i>
 </div>{" "}</div>
 </div>
-</div>{" "}{" "}<div className="project-card full-stack bg-[#dee7f7] dark:bg-[#141b2c] relative rounded-xl dark:border dark:border-blue-600 overflow-hidden group transition duration-300 hover:-translate-y-1 shadow-[4px_4px_0px_rgb(32_170_100)] hover:shadow-[-4px_-4px_0px_rgb(32_170_100)] dark:hover:shadow-blue-600/50">
+</div>{" "}{" "}<div className="project-card full-stack bg-[#dee7f7] dark:bg-[#141b2c] dark:hover:bg-[#021526] relative rounded-xl
+border border-green-600 dark:border-blue-600
+overflow-hidden group transition duration-300 hover:-translate-y-1
+shadow-[4px_4px_0px_#16a34a]
+hover:shadow-[-4px_-4px_0px_#16a34a]
+dark:shadow-[4px_4px_0px_#2563eb]
+dark:hover:shadow-[-4px_-4px_0px_#2563eb]">
 <div className="w-full h-64 overflow-hidden relative group">
 <img src="/assets/images/projects/e-commerce-platform-portfolio-live-preview.webp" alt="E-Commerce Platform web app interface preview" fetchPriority="high" loading="lazy" decoding="async" className="w-full h-full object-cover transition-all duration-500 group-hover:scale-105 origin-top" />{" "}<div className="absolute inset-0 bg-black/60 opacity-0 transition-all duration-500 group-hover:opacity-100">
 </div>{" "}<div className="absolute inset-0 flex items-center justify-center gap-4 opacity-0 transition-all duration-500 group-hover:opacity-100">

@@ -11,13 +11,13 @@ import ProjectModal from '@/components/home/ProjectModal'
 import GithubModal from '@/components/home/GithubModal'
 import SiteBehaviors from '@/components/SiteBehaviors'
 import { SITE_URL } from '@/lib/site'
-
+import { SpeedInsights } from '@vercel/speed-insights/next'
 export const viewport = { width: 'device-width', initialScale: 1, themeColor: '#86efac' }
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: 'Shahnawaz Khan | Full-Stack Web & SaaS Developer in Pakistan', template: '%s | Shahnawaz Khan' },
-  description: 'Full Stack Developer helping businesses build scalable SaaS, eCommerce, dashboards & websites with React, Node.js & API integration | Bahawalpur, Pakistan',
+  description: 'Build better business websites, SaaS products, and custom web applications with Shahnawaz Khan. Explore projects, development services, and performance optimization.',
   authors: [{ name: 'Shahnawaz Khan' }],
   creator: 'Shahnawaz Khan',
   robots: { index: true, follow: true },

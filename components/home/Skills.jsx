@@ -7,7 +7,7 @@ export default function Skills() {
 </div>{" "}<div className="flex justify-center items-center flex-col gap-4 space-y-4 pt-20 pb-14">
 <h2 className="relative text-4xl sm:text-3xl text-[#1a3263] dark:text-white font-bold after:absolute after:left-20 after:-bottom-5 after:w-[40%] after:h-1 after:bg-green-600 dark:after:bg-blue-600">{" My "}<span className="text-green-600 dark:text-blue-500">Skills</span>
 </h2>{" "}<h3 className="dark:text-white/80 text-[#1B3C53] text-[21px] font-bold mx-auto text-center">{" Technical Skills, Tools & Expertise "}</h3>{" "}<p className="dark:text-white/80 text-[#1B3C53] text-[19px] mx-auto text-center">{" The stack I use to ship production-grade products, not just the frameworks I've tried once. "}</p>
-</div>{" "}{" "}<div className="grid grid-cols-1 lg:grid-cols-2 gap-7 py-6 text-white">{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+</div>{" "}{" "}<div className="grid grid-cols-1 lg:grid-cols-2 gap-7 py-6 text-white">{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <div className="flex items-center gap-3 mb-6">
 <div className="w-10 h-10 bg-[#1a3263]  dark:bg-blue-600 rounded-lg flex items-center justify-center text-xl">
 <i className="bi bi-palette text-green-100">
@@ -93,7 +93,7 @@ export default function Skills() {
 </div>
 </div>
 </div>
-</div>{" "}{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+</div>{" "}{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <div className="flex items-center gap-3 mb-6">
 <div className="w-10 h-10 bg-[#1a3263] dark:bg-blue-600 rounded-lg flex items-center justify-center text-xl">
 <i className="bi bi-code-slash text-green-100">
@@ -151,7 +151,7 @@ export default function Skills() {
 </div>
 </div>
 </div>
-</div>{" "}<div className="grid grid-cols-1 lg:grid-cols-2 gap-7 py-6 text-white">{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+</div>{" "}<div className="grid grid-cols-1 lg:grid-cols-2 gap-7 py-6 text-white">{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <div className="flex items-center gap-3 mb-6">
 <div className="w-10 h-10 bg-[#1a3263] dark:bg-blue-600 rounded-lg flex items-center justify-center text-xl">
 <i className="bi bi-database text-green-100">
@@ -191,7 +191,7 @@ export default function Skills() {
 </div>
 </div>
 </div>
-</div>{" "}{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
+</div>{" "}{" "}<div className="bg-[#d3e3fd]/60 dark:bg-[#141b2c]/60 hover:bg-[#d3e3fd] dark:hover:bg-[#0B0909] p-6 rounded-xl hover:shadow-[2px_2px_0px_#1a3263]  dark:hover:shadow-[2px_2px_0px_rgba(37,99,235)] border border-blue-600 hover:border-blue-700 transition-all duration-500 hover:scale-[1.02]">
 <div className="flex items-center gap-3 mb-6">
 <div className="w-10 h-10 bg-[#1a3263] dark:bg-blue-600 rounded-lg flex items-center justify-center text-xl">
 <i className="bi bi-wrench-adjustable text-green-100">
